@@ -13,6 +13,9 @@ public static void main(String[] args) {
 	System.out.println("Account");
 	System.out.println("Debit");
 	System.out.println("Credit");
+	System.out.println("Perdonal Loan");
+	System.out.println("Loans");
+	
 	
 
 }
