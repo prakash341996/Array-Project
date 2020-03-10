@@ -11,5 +11,7 @@ public static void main(String[] args) {
 	System.out.println(sum);
 	System.out.println("Payment");
 	System.out.println("Account");
+	System.out.println("Debit");
+
 }
 }
